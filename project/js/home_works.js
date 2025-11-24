@@ -11,10 +11,10 @@ const seconds = document.querySelector('#seconds')
 let knight = redSquare.querySelector('img')
 let stopper = false
 let num = 0
-const gif = '<img src="/project/project/media/fall.gif" alt="">'
-const gif2 = '<img src="/project/project/media/giphy.gif"></img>'
-const gif3 = '<img src="/project/project/media/hollow-knight-knight.gif"></img>'
-const gif4 = '<img src="/project/project/media/hk.gif"></img>'
+const gif = '<img src="../media/fall.gif" alt="">'
+const gif2 = '<img src="../media/giphy.gif"></img>'
+const gif3 = '<img src="../media/hollow-knight-knight.gif"></img>'
+const gif4 = '<img src="../media/hk.gif"></img>'
 
     start.addEventListener('click', ()=>{
         if(!stopper){
