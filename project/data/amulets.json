@@ -1,0 +1,53 @@
+[
+    {
+        "id":"1",
+        "name":"Загребущий рой",
+        "img":"../media/amulet2.webp",
+        "effects":"За носящим будет повсюду следовать рой мушек, которые подбирают брошенное гео.Полезен для тех, кто не любит оставлять позади даже самое малое.",
+        "costs": "<img src='../media/SoulCost.webp'>"
+    },
+    {
+        "id":"2",
+        "name":"Ловкач",
+        "img":"../media/amulet3.webp",
+        "effects":"Очень похож на чудаковатого жука, известного лишь как «Трюкач».Носитель может чаще передвигаться рывками и даже делать рывок вниз. Отлично подходит для тех, кто хочет передвигаться быстрее.",
+        "costs":"<img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'>"
+    },
+    {
+        "id":"3",
+        "name":"Шаманский камень",
+        "img":"../media/amulet4.webp",
+        "effects":"Якобы хранит в себе знания предыдущих поколений шаманов.Увеличивает силу заклинаний, позволяя наносить ими больше урона.",
+        "costs":"<img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'>"
+    },
+    {
+        
+        "id":"4",
+        "costs":"<img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'>",
+        "name":"Хрупкая (Стальная) сила",
+        "img":"../media/amulet5.webp",
+        "effects":"Даёт носителю больше силы, увеличивая урон, наносимый гвоздём.Этот амулет очень хрупок и сломается при смерти владельца. (Ломается при смерти(Если сила хрупкая))"
+    },
+    {
+        "id":"5",
+        "costs":"<img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'>",
+        "name":"Быстрый удар",
+        "img":"../media/amulet6.webp",
+        "effects":"Создан из неблаговидных и забракованных гвоздей, сплавившихся воедино. Они всё ещё жаждут обрести хозяев.Позволяет чаще наносить удары гвоздем."
+    },
+    {
+        "id":"6",
+        "costs":"<img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'>",
+        "name":"Пронизывающая тень",
+        "img":"../media/amulet7.webp",
+        "effects":"При использовании Рывка с тенью тело носителя будет причинять урон врагам."
+    },
+    {
+        "id":"7",
+        "costs":"<img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'> <img src='../media/SoulCost.webp'>",
+        "name":"Метка гордости (overrated as f*ck)",
+        "img":"../media/amulet8.webp",
+        "effects":"Племя богомолов награждает подобными амулетами тех, кого они уважают.Весьма ощутимо увеличивает область атаки гвоздём, позволяя достать противников ударом с большого расстояния."
+    }
+    
+]

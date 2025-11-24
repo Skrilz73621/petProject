@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "name":"Dirthmound",
+        "background":"../media/Area_Dirtmouth.webp",
+        "url":"../media/02.mp3"
+    },
+    {
+        "id":2,
+        "name":"Greenpath",
+        "background":"../media/Area_Greenpath.webp",
+        "url":"../media/05.mp3"
+    },
+    {
+        "id":3,
+        "name":"City of tears",
+        "background":"../media/Area_City_of_Tears.webp",
+        "url":"../media/09.mp3"
+    },
+    {
+        "id":4,
+        "name":"WhitePalace",
+        "background":"../media/Area_White_Palace.webp",
+        "url":"../media/26.mp3"
+    },
+    {
+        "id":5,
+        "name":"MageTower",
+        "background":"../media/Area_Mage_Tower.webp",
+        "url":"../media/14.mp3"
+    },
+    {
+        "id":6,
+        "name":"Kingdom's edge",
+        "background":"../media/Area_Kingdoms_Edge.webp",
+        "url":"../media/19.mp3"
+    },
+    {
+        "id":7,
+        "name":"The Grimm Troup",
+        "background":"../media/The_Grimm_Troupe_ost.webp",
+        "url":"../media/04.mp3"
+    },
+    {
+        "id":8,
+        "name":"Godseaker",
+        "background":"../media/Area_Art_Godshome.webp",
+        "url":"../media/08.mp3"
+    }
+
+]
